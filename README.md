@@ -1,4 +1,4 @@
-# Lab2-FarmOptimalzation
+# Lab2-FarmOptimalization
 Project for laboratory Języki Programowania 
 
 Kompilacja: javac main/Main.java -encoding UTF8
